@@ -6,3 +6,9 @@
 CoolPerson879/CoolPerson879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Jobs  to do:
+
+- [] Create a successful game
+- [] Get more viewers on my wersite
+- [] Become a Famous CEO
+- [] Become a millionaire
