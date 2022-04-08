@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Jobs  to do:
 
-- [ ] Create a successful game
+- [X] Create a successful game
 - [ ] Get more viewers on my wersite
 - [ ] Become a Famous CEO
 - [ ] Become a millionaire
