@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 ## Jobs  to do:
 
 - [X] Create a successful game
+- [X] Lerarn React
 - [ ] Get more viewers on my wersite
 - [ ] Become a Famous CEO
 - [ ] Become a millionaire
+- [ ] Listen to 45 years worth of lofi
