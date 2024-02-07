@@ -12,6 +12,10 @@ You can click the Preview link to take a look at your changes.
 - [X] Build a PC
 - [X] Learn React
 - [X] Get Windows Enterprise for free
-- [ ] Get more viewers on my wersite
+- [ ] Create more than 15 games and publissh them somewhere
+- [ ] Get more viewers on my website
+- [ ] Learn how to type faster
+- [ ] Actually learn React
 - [ ] Listen to 45 years worth of lofi
+- [ ] Stop making typos
 - [ ] sleep
