@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - [X] Build a PC
 - [X] Learn React
 - [X] Get Windows Enterprise for free
-- [ ] Create more than 15 games and publissh them somewhere
+- [ ] ~Create more than 15 games and publissh them somewhere~
 - [ ] Get more viewers on my website
 - [ ] Learn how to type faster
 - [ ] Actually learn React
