@@ -12,8 +12,10 @@ You can click the Preview link to take a look at your changes.
 - [X] Build a PC
 - [X] Learn React
 - [X] Get Windows Enterprise for free
+- [X] Use Arch (btw)
 - [ ] ~Create more than 15 games and publissh them somewhere~
 - [ ] Get more viewers on my website
+- [X] Create a server that allows people to pirate movies
 - [ ] Learn how to type faster
 - [ ] Actually learn React
 - [X] Listen to 45 years worth of lofi
