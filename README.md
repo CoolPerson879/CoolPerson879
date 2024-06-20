@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - [X] Learn React
 - [X] Get Windows Enterprise for free
 - [X] Use Arch (btw)
-- [ ] ~Create more than 15 games and publissh them somewhere~
+- [ ] Cash in my $3.28 I earned in crypto mining
 - [ ] Get more viewers on my website
 - [X] Create a server that allows people to pirate movies
 - [ ] Learn how to type faster
