@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - [ ] Get more viewers on my website
 - [ ] Learn how to type faster
 - [ ] Actually learn React
-- [ ] Listen to 45 years worth of lofi
+- [X] Listen to 45 years worth of lofi
 - [ ] Stop making typos
-- [ ] sleep
+- [X] sleep
+- [ ] Touch Grass (last time i did that was 7 years ago)
