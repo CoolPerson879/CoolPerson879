@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 - [X] Listen to 45 years worth of lofi
 - [ ] Stop making typos
 - [X] sleep
-- [ ] Touch Grass (last time i did that was 7 years ago)
+- [ ] survive AP computer science knowing that I know everything in the class and its a waste of time
