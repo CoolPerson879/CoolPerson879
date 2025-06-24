@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolPerson879
 - 👀 I’m interested in Game Development, App Development and Website Development
-- 📫 How to reach me: [rajscape.com](https://rajscape.com) or my email [adityaykashyap@gmail.com](mailto:adityaykashyap@gmail.com)
+- 📫 How to reach me: [rajscape.com](https://rajscape.com) or my email [admin@rajscape.com](mailto:admin@rajscape.com)
 
 <!---
 CoolPerson879/CoolPerson879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
