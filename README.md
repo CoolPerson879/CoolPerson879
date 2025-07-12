@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoolPerson879
-- 👀 I’m interested in Game Development, App Development and Website Development
+- 👀 I’m interested in Machine Learning / Prompt Engineering
 - 📫 How to reach me: [rajscape.com](https://rajscape.com) or my email [admin@rajscape.com](mailto:admin@rajscape.com)
 
 <!---
